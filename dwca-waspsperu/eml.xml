@@ -1,0 +1,97 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" 
+    xmlns:md="eml://ecoinformatics.org/methods-2.1.1" 
+    xmlns:proj="eml://ecoinformatics.org/project-2.1.1" 
+    xmlns:d="eml://ecoinformatics.org/dataset-2.1.1" 
+    xmlns:res="eml://ecoinformatics.org/resource-2.1.1" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.0.1/eml.xsd"
+    packageId="640142cc-ff7e-49f3-902a-a0fd5a7a3560/v6" system="http://gbif.org" scope="system" xml:lang="eng">
+
+    <dataset>
+      <title xml:lang="eng">A checklist to the wasps of Peru (Hymenoptera, Aculeata)</title>
+      <creator>
+    <individualName>
+      <givenName>PENSOFT</givenName>
+      <surName>Journals</surName>
+    </individualName>
+    <address>
+      <city>Sofia</city>
+      <country>BG</country>
+    </address>
+    <electronicMailAddress>journals@pensoft.net</electronicMailAddress>
+      </creator>
+      <metadataProvider>
+    <individualName>
+      <givenName>PENSOFT</givenName>
+      <surName>Journals</surName>
+    </individualName>
+    <address>
+      <city>Sofia</city>
+      <country>BG</country>
+    </address>
+    <electronicMailAddress>journals@pensoft.net</electronicMailAddress>
+      </metadataProvider>
+	  <pubDate>
+      	2011-02-17
+      </pubDate>
+      <language>eng</language>
+      <abstract>
+        <para>The first checklist to the 225 genera and 1169 reported species-group taxa of aculeate wasps of Peru is presented. The list is based on a literature survey and examination of Peruvian entomological collections and include locality references for each taxon. Bibliographic references for the identification of families, genera, and species are provided when available. The occurrence data are published in addition as a downloadable file (doi: 10.3897/zookeys.15.196.app.2.ds, doi: 10.3897/zookeys.15.196.app.3.ds, and 10.3897/zookeys.15.196.app.4.ds) and were uploaded onto GBIF infrastructure simultaneously with the publication process. The following new combinations are proposed: Ancistroceroides cirrifer (Zavattari, 1912), Ancistrocerus epicus (Zavattari, 1912), and Stenodynerus corallineipes (Zavattari, 1912).</para>
+      </abstract>
+      <keywordSet>
+        <keyword>Aculeata</keyword>
+        <keyword>Biodiversity</keyword>
+        <keyword>Gazetter</keyword>
+        <keyword>Hymenoptera</keyword>
+        <keyword>Sampling coverage</keyword>
+        <keyword>Peru</keyword>
+        <keywordThesaurus>n/a</keywordThesaurus>
+      </keywordSet>
+      <coverage>        
+        <geographicCoverage>
+          <geographicDescription>Peru</geographicDescription>
+          <boundingCoordinates>
+            <westBoundingCoordinate>-180</westBoundingCoordinate>
+            <eastBoundingCoordinate>180</eastBoundingCoordinate>
+            <northBoundingCoordinate>90</northBoundingCoordinate>
+            <southBoundingCoordinate>-18</southBoundingCoordinate>
+          </boundingCoordinates>
+        </geographicCoverage>
+        <taxonomicCoverage>
+         <taxonomicClassification>
+           	<taxonRankName>order</taxonRankName>
+           	<taxonRankValue>Hymenoptera</taxonRankValue>
+         </taxonomicClassification>
+         <taxonomicClassification>
+           	<taxonRankName>infraorder</taxonRankName>
+           	<taxonRankValue>Aculeata</taxonRankValue>
+           	<commonName>wasps</commonName>
+         </taxonomicClassification>
+        </taxonomicCoverage>
+      </coverage>
+      <contact>
+    <individualName>
+      <givenName>Claus</givenName>
+      <surName>Rasmussen</surName>
+    </individualName>
+    <organizationName>Museo Nacional de Historia Natural, Dept. Entomologia, Peru</organizationName>
+    <positionName>unknown</positionName>
+    <address>
+      <city>Lima</city>
+      <country>PE</country>
+    </address>
+    <electronicMailAddress>alrunen@yahoo.com</electronicMailAddress>
+      </contact>
+    </dataset>
+    <additionalMetadata>
+     <metadata>
+      <gbif>
+        <dateStamp>2011-02-17T03:57:32.656+02:00</dateStamp>
+        <hierarchyLevel>dataset</hierarchyLevel>
+        <formationPeriod>up to 2009</formationPeriod>
+        <dc:replaces>640142cc-ff7e-49f3-902a-a0fd5a7a3560/v5.xml</dc:replaces>
+      </gbif>
+     </metadata>
+    </additionalMetadata>
+</eml:eml>
